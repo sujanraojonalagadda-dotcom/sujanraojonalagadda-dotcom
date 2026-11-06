@@ -1,132 +1,153 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,45:6D28D9,100:06B6D4&height=190&section=header&text=JONNALAGADDA%20SUJAN%20RAO&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=ECE%20Undergraduate%20%7C%20Embedded%20Systems%20%7C%20VLSI%20%7C%20AI&descAlignY=60&descColor=E2E8F0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=190&section=header&text=SUJAN%20RAO&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=ELECTRONICS%20%26%20COMMUNICATION%20ENGINEERING&descSize=16&descAlignY=68&descColor=9CA3AF" />
 
-### Building practical technology at the intersection of electronics and software
+### Embedded Systems · VLSI · Digital Design · Applied AI
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujanraojonalagadda-dotcom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-![Focus](https://img.shields.io/badge/Focus-Embedded%20%7C%20VLSI%20%7C%20AI-0F766E?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D5DFB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujanraojonalagadda)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/sujanraojonalagadda-dotcom)
 
 </div>
 
 ---
 
-## 👋 About Me
+## A little about me
 
-I'm **Jonnalagadda Sujan Rao**, an Electronics and Communication Engineering undergraduate at **Siddhartha Academy of Higher Education**, expected to graduate in **2028**.
+I'm **Jonnalagadda Sujan Rao**, a B.Tech Electronics and Communication Engineering student at **Siddhartha Academy of Higher Education**, graduating in **2028**.
 
-I enjoy exploring how hardware and software work together to solve practical problems. My interests include embedded systems, digital design and VLSI, signal processing, artificial intelligence, and engineering-focused software development.
+I like working across the boundary between hardware and software—from microcontroller-based prototypes and digital systems to signal-processing applications and useful software products.
 
-- 🎓 **Degree:** B.Tech – Electronics and Communication Engineering
-- 🏫 **Institution:** Siddhartha Academy of Higher Education
-- 📅 **Expected graduation:** 2028
-- 💼 **Experience:** Completed an AI internship at CodeAlpha
-- 🤝 **Leadership:** Event & Public Relations Head, E-Cell, Siddhartha University
-- 📍 **Location:** Vijayawada, India
-
----
-
-## 🧭 Areas I'm Exploring
-
-| Area | Current interests |
-|---|---|
-| Embedded Systems | ESP32, STM32, sensor interfacing, firmware development |
-| VLSI & Digital Design | Verilog HDL, RTL design, processor architecture, simulation and synthesis |
-| AI & Software | Python, AI applications, practical software tools |
-| Signal Processing | MATLAB, digital signal processing, biomedical signals |
-| Engineering Innovation | Prototyping, hackathons, technology for real-world problems |
+| | |
+|:--|:--|
+| **Education** | B.Tech, Electronics & Communication Engineering |
+| **Institution** | Siddhartha Academy of Higher Education |
+| **Graduation** | 2028 |
+| **Experience** | AI Intern — CodeAlpha |
+| **Leadership** | Event & Public Relations Head, E-Cell, Siddhartha University |
+| **Based in** | Vijayawada, India |
 
 ---
 
-## 🚀 Selected Projects
+## What I work with
 
-### 🔋 PUNARVA — EV Battery Health Screening Prototype
+<div align="center">
+
+**PROGRAMMING & DIGITAL DESIGN**
+
+<img src="https://skillicons.dev/icons?i=c,python,matlab,git,github,vscode" />
+
+**EMBEDDED & HARDWARE**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
+**CORE AREAS**
+
+<span>Embedded C</span> · <span>ESP32</span> · <span>STM32</span> · <span>Verilog HDL</span> · <span>RTL Design</span> · <span>Signal Processing</span> · <span>AI Applications</span>
+
+</div>
+
+---
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔋 PUNARVA
+**EV Battery Health Screening Prototype**
+
+An ESP32-based prototype for preliminary screening of retired EV cells to support reuse, inspection, or recycling decisions.
+
+**Technologies:** ESP32 · INA219 · ADS1115 · OLED · PlatformIO
+
 **Status:** In development
 
-An ESP32-based prototype for preliminary screening of retired EV battery cells to support reuse, inspection, or recycling decisions. The hardware measures electrical response during a controlled test using voltage and current sensing, with temperature monitoring planned as part of the safety checks.
+</td>
+<td width="50%" valign="top">
 
-**Technologies:** ESP32 · INA219 · ADS1115 · OLED · Embedded C · PlatformIO
+### 🧠 16-bit Single-Cycle MIPS
+**Processor Design using Verilog HDL**
 
-### 🧠 16-Bit Single-Cycle MIPS Processor
-Designed a 16-bit single-cycle MIPS processor using Verilog HDL, with RTL design, functional simulation, and synthesis using Cadence Genus. The project is a software-based processor design; it was not implemented on an FPGA.
+Designed and simulated a 16-bit single-cycle MIPS processor, including RTL design and synthesis using Cadence Genus. Software-based design; no FPGA implementation.
 
-**Technologies:** Verilog HDL · RTL Design · ModelSim · Cadence Genus
+**Technologies:** Verilog HDL · RTL · ModelSim · Cadence Genus
 
-### 🛡️ Sentine1X — ESP32-Based Smart Surveillance System
-An ESP32-based multi-sensor monitoring and alert prototype developed and tested in the Wokwi simulator. It combines motion and distance sensing, environmental monitoring, display output, and alert mechanisms.
+**Status:** Completed
 
-[View repository](https://github.com/sujanraojonalagadda-dotcom/Sentine1X-Defense-System)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Technologies:** ESP32 · Arduino C/C++ · PIR · Ultrasonic · DHT22 · OLED · Wokwi
+### ❤️ ECG Signal Processing
+**Heart Rate Analysis using MATLAB**
 
-### ❤️ ECG Signal Processing & Heart Rate Analysis
-A MATLAB project for ECG signal visualization, Butterworth filtering, R-peak detection, heart-rate calculation, and GUI-style analysis.
+ECG visualization, Butterworth filtering, R-peak detection, heart-rate calculation, and GUI-style analysis.
 
-[View repository](https://github.com/sujanraojonalagadda-dotcom/ECG-Signal-Processing-MATLAB)
+[View repository →](https://github.com/sujanraojonalagadda-dotcom/ECG-Signal-Processing-MATLAB)
 
-**Technologies:** MATLAB · Signal Processing · Butterworth Filter
+**Technologies:** MATLAB · Signal Processing
+
+</td>
+<td width="50%" valign="top">
 
 ### ♻️ Kabadiwala Connect
-A digital waste-management platform connecting waste collectors with recycling organizations. It supports waste listings, recycler requests, location-based coordination, transaction tracking, notifications, and digital receipts.
+**Digital Waste & Recycling Platform**
 
-[Live demo](https://scrap-soar.vercel.app/) · [Repository](https://github.com/sujanraojonalagadda-dotcom/scrap-soar)
+Connects waste collectors with recyclers through listings, purchase requests, location coordination, transaction tracking, and digital receipts.
 
-### 📚 Padhai Ka Safar — Student Guidance Platform
-A student-focused guidance project designed to help users discover scholarship and learning opportunities.
+[Live demo →](https://scrap-soar.vercel.app/) · [Repository →](https://github.com/sujanraojonalagadda-dotcom/scrap-soar)
 
-[View repository](https://github.com/sujanraojonalagadda-dotcom/PADHAI-KA-SAFAR)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Sentine1X
+**ESP32 Smart Surveillance Prototype**
+
+A Wokwi-simulated multi-sensor monitoring and alert system combining motion, distance, and environmental sensing.
+
+[View repository →](https://github.com/sujanraojonalagadda-dotcom/Sentine1X-Defense-System)
+
+**Technologies:** ESP32 · Arduino C/C++ · Wokwi
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Padhai Ka Safar
+**Student Guidance Platform**
+
+A student-focused platform concept for discovering scholarships and learning opportunities.
+
+[View repository →](https://github.com/sujanraojonalagadda-dotcom/PADHAI-KA-SAFAR)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Technical Toolkit
+## Current learning
+
+- Developing stronger embedded C and microcontroller interfacing skills.
+- Deepening my understanding of Verilog, RTL design, and VLSI fundamentals.
+- Building and testing the PUNARVA hardware prototype.
+- Exploring practical AI and software applications.
+- Taking part in technical projects, teamwork, and hackathons.
+
+---
 
 <div align="center">
 
-**Programming & HDL**
+### Let's connect
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog%20HDL-7C3AED?style=for-the-badge)
+I'm interested in learning from engineers, collaborating on meaningful projects, and exploring internship opportunities.
 
-**Embedded & Design Tools**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujan%20Rao-6D5DFB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujanraojonalagadda)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujanraojonalagadda-dotcom)
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📌 Currently Focusing On
-
-- Strengthening embedded C, microcontroller interfacing, and firmware development.
-- Improving Verilog HDL, RTL design, processor architecture, and VLSI fundamentals.
-- Developing and testing the PUNARVA battery-screening prototype.
-- Building practical software and AI-enabled applications.
-- Preparing for engineering internships, technical opportunities, and hackathons.
-
----
-
-## 🤝 Leadership & Community
-
-**Event & Public Relations Head — E-Cell, Siddhartha University**
-
-Contributing to event planning and on-ground coordination, social media promotion, external communication, and stakeholder outreach.
-
----
-
-## 📫 Connect
-
-- **GitHub:** [@sujanraojonalagadda-dotcom](https://github.com/sujanraojonalagadda-dotcom)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:6D28D9,100:101827&height=110&section=footer" />
-
-*Curious by nature. Engineer by passion. Building technology for real-world impact.*
+*Curious by nature. Building one project at a time.*
 
 </div>
